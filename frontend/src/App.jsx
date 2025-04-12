@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './LandingPage/Navbar'
-import About from './LandingPage/about/about'
+import About from './LandingPage/about/About'
 import Home from './LandingPage/home/Home'
 import Services from './LandingPage/services/Services'
 import Skills from './LandingPage/skills/Skills'
